@@ -1,0 +1,6 @@
+{
+  "name": "Koperasi Desa Merah Putih - Portal Brand",
+  "description": "Portal interaktif berisi Company Profile, spesifikasi produk KDMP Arabica Tasik Heritage, artikel bisnis, serta prompt AI untuk visual branding Koperasi Desa Merah Putih (KDMP).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
